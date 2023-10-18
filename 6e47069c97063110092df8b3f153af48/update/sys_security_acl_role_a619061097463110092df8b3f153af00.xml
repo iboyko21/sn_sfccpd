@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-18 22:59:36</sys_created_on>
+        <sys_id>a619061097463110092df8b3f153af00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_864710_sfccpd_incidents.x_864710_sfccpd.user</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_security_acl display_value="x_864710_sfccpd_incidents">ae19c21097463110092df8b3f153affd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a619061097463110092df8b3f153af00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-18 22:59:36</sys_updated_on>
+        <sys_user_role display_value="x_864710_sfccpd.user" name="x_864710_sfccpd.user">d2678e5c97063110092df8b3f153af5b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
