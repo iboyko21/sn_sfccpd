@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="bd19c21097463110092df8b3f153af1f" label="Incidents" max_length="40" name="x_864710_sfccpd_incidents" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Caller" max_length="40" name="caller" type="string"/>
+        <element label="Case Number" max_length="40" name="case_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
         <element label="Location" max_length="40" name="location" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="info" label="Type" max_length="40" name="type" type="choice">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="info" label="Call Type" max_length="40" name="type" type="string">
             <choice>
                 <element inactive_on_update="false" label="Case #" value="case"/>
                 <element inactive_on_update="false" label="Info" value="info"/>
