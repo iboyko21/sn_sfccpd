@@ -3,6 +3,9 @@
         <element attributes="edge_encryption_enabled=true" label="Caller" max_length="40" name="caller" type="string"/>
         <element label="Case Number" max_length="40" name="case_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element choice="1" label="Disposition" max_length="40" name="disposition" type="choice">
+            <choice/>
+        </element>
         <element label="Location" max_length="40" name="location" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="info" label="Call Type" max_length="40" name="type" type="string">
