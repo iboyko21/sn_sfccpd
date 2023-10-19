@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="SFCCPD">b0440ae097067110092df8b3f153afdf</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-19 17:17:21</sys_created_on>
+        <sys_id>c754826097067110092df8b3f153af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SFCCPD.catalog_sfccpd</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_sfccpd">cf54826097067110092df8b3f153af21</sys_portal_page>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_c754826097067110092df8b3f153af23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-19 17:17:21</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
