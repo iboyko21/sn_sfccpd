@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="bd19c21097463110092df8b3f153af1f" label="Incidents" max_length="40" name="x_864710_sfccpd_incidents" type="collection">
+        <element choice="1" label="Assigned To" max_length="40" name="assigned_to" type="choice">
+            <choice/>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Caller" max_length="40" name="caller" type="string"/>
         <element label="Case Number" max_length="40" name="case_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
