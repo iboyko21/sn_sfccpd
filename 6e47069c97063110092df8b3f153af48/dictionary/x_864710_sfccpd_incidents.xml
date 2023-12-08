@@ -4,7 +4,7 @@
             <choice/>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Caller" max_length="40" name="caller" type="string"/>
-        <element label="Case Number" max_length="40" name="case_number" type="string"/>
+        <element label="Report Number" max_length="40" name="case_number" reference="x_864710_sfccpd_reports" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Date/Time" max_length="40" name="date_time" type="glide_date_time"/>
         <element choice="1" label="Disposition" max_length="40" name="disposition" type="choice">
             <choice/>
@@ -18,5 +18,6 @@
                 <element inactive_on_update="false" label="Redirected" value="redirected"/>
             </choice>
         </element>
+        <element label="Report" max_length="40" name="u_boolean_1" type="boolean"/>
     </element>
 </database>

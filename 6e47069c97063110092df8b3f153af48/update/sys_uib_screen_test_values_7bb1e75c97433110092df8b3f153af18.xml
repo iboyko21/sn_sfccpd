@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="Landing Page Default">4901671c93433110d15e09b27a7db8f1</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 22:29:40</sys_created_on>
+        <sys_id>7bb1e75c97433110092df8b3f153af18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_7bb1e75c97433110092df8b3f153af18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 22:29:40</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

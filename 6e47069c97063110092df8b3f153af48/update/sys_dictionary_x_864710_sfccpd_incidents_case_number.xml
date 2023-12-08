@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Case Number</column_label>
+        <column_label>Report Number</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -32,7 +32,7 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_864710_sfccpd_incidents</name>
@@ -40,7 +40,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_864710_sfccpd_reports">x_864710_sfccpd_reports</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -52,13 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-19 16:20:25</sys_created_on>
-        <sys_name>Case Number</sys_name>
+        <sys_name>Report Number</sys_name>
         <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
         <sys_policy/>
         <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
         <sys_update_name>sys_dictionary_x_864710_sfccpd_incidents_case_number</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-19 16:20:25</sys_updated_on>
+        <sys_updated_on>2023-12-07 23:19:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

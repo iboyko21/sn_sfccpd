@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="SFCCPD Config">7001671c97433110092df8b3f153afd1</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Settings Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>settings</route_type>
+        <screen_type display_value="Settings Page">0101a71c32433110fd8a49bb45c2f715</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-07 22:26:30</sys_created_on>
+        <sys_id>c101a71cf84331101241cfeb729bf415</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Settings Page</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_update_name>sys_ux_app_route_c101a71cf84331101241cfeb729bf415</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-07 22:26:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=c101a71cf84331101241cfeb729bf415"/>
+</record_update>

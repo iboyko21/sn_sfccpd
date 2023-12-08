@@ -28,7 +28,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Blue Shirt</name>
+        <name>Blue Shirt Short Sleeve</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -56,7 +56,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description/>
+        <short_description>Short Sleeve</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -64,14 +64,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-19 17:27:43</sys_created_on>
         <sys_id>6386c2a497067110092df8b3f153af05</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Blue Shirt</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Blue Shirt Short Sleeve</sys_name>
         <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
         <sys_policy/>
         <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
         <sys_update_name>sc_cat_item_6386c2a497067110092df8b3f153af05</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-19 17:27:43</sys_updated_on>
+        <sys_updated_on>2023-12-07 23:13:55</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>

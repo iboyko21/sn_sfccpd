@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Standard Baton">789a23d497833110092df8b3f153af31</sc_cat_item>
+        <sc_category display_value="Equipment">c6292b5497833110092df8b3f153af2c</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:09:14</sys_created_on>
+        <sys_id>0fca67d497833110092df8b3f153af3f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment.Standard Baton</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_update_name>sc_cat_item_category_0fca67d497833110092df8b3f153af3f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:09:14</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SFCCPD">6e47069c97063110092df8b3f153af48</application>
+        <file_path/>
+        <instance_id>da0035d5db0d85105749cac505961971</instance_id>
+        <instance_name>dev120836</instance_name>
+        <name>sc_cat_item_category_0fca67d497833110092df8b3f153af3f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Standard Baton">789a23d497833110092df8b3f153af31</sc_cat_item><sc_category display_value="Equipment">c6292b5497833110092df8b3f153af2c</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 23:09:14</sys_created_on><sys_id>0fca67d497833110092df8b3f153af3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Equipment.Standard Baton</sys_name><sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package><sys_policy/><sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope><sys_update_name>sc_cat_item_category_0fca67d497833110092df8b3f153af3f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 23:09:14</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-636963455</payload_hash>
+        <record_name>Equipment.Standard Baton</record_name>
+        <reverted_from/>
+        <source>144aca1097463110092df8b3f153afcc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:09:14</sys_created_on>
+        <sys_id>17ca67d497833110092df8b3f153af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c468ad9ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:09:14</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>87ca67d4d583311004253374dd94e74f</update_guid>
+        <update_guid_history>87ca67d4d583311004253374dd94e74f:-636963455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Equipment.Standard Baton">d8da67d497833110092df8b3f153afd5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:09:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>19e662ace0d644f383545b036fed9921</sys_id>
+        <sys_metadata>0fca67d497833110092df8b3f153af3f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Equipment.Standard Baton</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_scope_delete display_value="">2566d5a4f83e48d48ff8b0cb0e7a94c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_0fca67d497833110092df8b3f153af3f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_0fca67d497833110092df8b3f153af3f">17ca67d497833110092df8b3f153af50</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:09:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

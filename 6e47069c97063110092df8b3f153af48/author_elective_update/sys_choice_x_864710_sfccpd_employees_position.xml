@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="position" table="x_864710_sfccpd_employees" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>position</element>
+            <name>x_864710_sfccpd_employees</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>position</sys_name>
+            <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+            <sys_update_name>sys_choice_x_864710_sfccpd_employees_position</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Police Officer</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>police_officer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Campus Control Aide</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>campus_control_aide</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dispatcher</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>dispatcher</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chief</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>chief</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Police Sergeant</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>police_sergeant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Police Lieutenant</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>police_lieutenant</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>position</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office Admin</label>
+            <language>en</language>
+            <name>x_864710_sfccpd_employees</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 22:15:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 22:15:19</sys_updated_on>
+            <value>office_admin</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

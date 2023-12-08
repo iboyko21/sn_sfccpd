@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8106f3d097c33110092df8b3f153af3b" label="Campus" max_length="40" name="x_864710_sfccpd_campus" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

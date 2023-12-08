@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>bfe50a6497067110092df8b3f153af57</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>58dc2b5897833110092df8b3f153af5f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>caller</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>37e50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>dcdc2b5897833110092df8b3f153af5f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>type</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>b7e50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>50dc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>3be50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>d0dc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>date_time</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>bbe50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>54dc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,69 +74,83 @@
             <element>location</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>3fe50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>d4dc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_1</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>58dc2b5897833110092df8b3f153af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>case_number</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>bfe50a6497067110092df8b3f153af58</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>d8dc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>33e50a6497067110092df8b3f153af59</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>5cdc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>disposition</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:24:14</sys_created_on>
-            <sys_id>b3e50a6497067110092df8b3f153af59</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>dcdc2b5897833110092df8b3f153af60</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:24:14</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-10-19 17:37:16</sys_created_on>
-            <sys_id>2ee80ea497067110092df8b3f153af03</sys_id>
+            <sys_created_on>2023-12-07 23:18:03</sys_created_on>
+            <sys_id>50dc2b5897833110092df8b3f153af61</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_864710_sfccpd_incidents" sys_domain="global" view="Default view">0bea829097463110092df8b3f153af66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-10-19 17:37:16</sys_updated_on>
+            <sys_updated_on>2023-12-07 23:18:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Standard Baton">789a23d497833110092df8b3f153af31</sc_cat_item>
+        <sc_catalog display_value="SFCCPD">b0440ae097067110092df8b3f153afdf</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:08:57</sys_created_on>
+        <sys_id>dbbae3d497833110092df8b3f153afd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SFCCPD.Standard Baton</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dbbae3d497833110092df8b3f153afd4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:08:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SFCCPD">6e47069c97063110092df8b3f153af48</application>
+        <file_path/>
+        <instance_id>da0035d5db0d85105749cac505961971</instance_id>
+        <instance_name>dev120836</instance_name>
+        <name>sc_cat_item_catalog_dbbae3d497833110092df8b3f153afd4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Standard Baton">789a23d497833110092df8b3f153af31</sc_cat_item><sc_catalog display_value="SFCCPD">b0440ae097067110092df8b3f153afdf</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 23:08:57</sys_created_on><sys_id>dbbae3d497833110092df8b3f153afd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SFCCPD.Standard Baton</sys_name><sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package><sys_policy/><sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope><sys_update_name>sc_cat_item_catalog_dbbae3d497833110092df8b3f153afd4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 23:08:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1136558654</payload_hash>
+        <record_name>SFCCPD.Standard Baton</record_name>
+        <reverted_from/>
+        <source>144aca1097463110092df8b3f153afcc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:08:57</sys_created_on>
+        <sys_id>9fbae3d497833110092df8b3f153afd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c468a9a880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:08:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>13bae3d48e833110f0064b6f033e38d7</update_guid>
+        <update_guid_history>13bae3d48e833110f0064b6f033e38d7:1136558654</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SFCCPD.Standard Baton">83ca67d497833110092df8b3f153af2f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 23:09:13</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>2e243251203548be9773b76399b3a684</sys_id>
+        <sys_metadata>dbbae3d497833110092df8b3f153afd4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SFCCPD.Standard Baton</sys_name>
+        <sys_package display_value="SFCCPD" source="x_864710_sfccpd">6e47069c97063110092df8b3f153af48</sys_package>
+        <sys_parent display_value="Standard Baton">789a23d497833110092df8b3f153af31</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SFCCPD">6e47069c97063110092df8b3f153af48</sys_scope>
+        <sys_scope_delete display_value="">2566d5a4f83e48d48ff8b0cb0e7a94c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_dbbae3d497833110092df8b3f153afd4</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_dbbae3d497833110092df8b3f153afd4">9fbae3d497833110092df8b3f153afd7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 23:09:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
